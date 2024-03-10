@@ -1,0 +1,29 @@
+*{
+    font-family: "maven pro ", sans-serif;
+   
+    
+}
+
+header{
+  background-color: crimson;
+  text-align: center;
+ 
+  
+}
+
+body{
+  background-color:palevioletred;
+  font-size: 16px;
+  display: flex;
+  justify-content: space-around;
+ 
+}
+
+img{
+  margin: 15px;
+  
+}
+
+main{
+  margin:  16px;
+}
